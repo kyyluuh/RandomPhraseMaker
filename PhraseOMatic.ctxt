@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=PhraseOMatic
+comment0.text=\n\ This\ application\ generates\ a\ funny\ new\ phrase\n\n\ @author\ Kylah\n\ @source\ code\ from\ Head\ First\ Java\n\ @version\ June\ 21,\ 2026\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
